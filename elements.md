@@ -22,27 +22,28 @@ B.S. in Computer Science with Univerisity Honors, Aug. 2018-May. 2022\
 2019 Fall
 
 #### Research Experience
-###### Gehlenborg Lab, Harvard Medical School
+###### [Gehlenborg Lab](http://gehlenborglab.org/), Harvard Medical School
 Graduate Research Assistant, Sep. 2022-Now\
-<small>Supervisor: Prof. Nils Gehlenborg</small>
-###### Mohimani Lab, Carnegie Mellon University
+<small>Supervisor: Dr. Nils Gehlenborg</small>
+###### [Mohimani Lab](http://mohimanilab.cbd.cmu.edu/), Carnegie Mellon University
 Undergraduate Research Assistant, Feb. 2021-Now\
-<small>Supervisor: Prof. Hosein Mohimani</small>
+<small>Supervisor: Dr. Hosein Mohimani</small>
 
 ###### Acuity Diagnostics
 Machine Learning Research Assistant, Jun. 2022-Sep. 2022\
-<small>Supervisor: Prof. Yongxin Zhao</small>
+<small>Supervisor: Dr. Yongxin Zhao</small>
 ###### Summer Undergraduate Research Fellowship, Carnegie Mellon University
 May. 2021-May.2022\
-<small>Supervisor: Prof. Hosein Mohimani</small>
+<small>Supervisor: Dr. Hosein Mohimani</small>
 ###### Summer Experience for Mathematical Science, Carnegie Mellon University
 Jun. 2020-Aug. 2020\
-<small>Supervisor: Prof. Kaave Hosseini</small>
+<small>Supervisor: Dr. Kaave Hosseini</small>
 
 
 #### Research-Based Project
 ###### Analysis of TCGA-MESO Samples Based on Mutation Variants and Gene Expression
-Oct. 2022
+Harvard Medical School
+<small>Oct. 2022</small>
 
 ###### Predicting Biological Process Membership of Proteins from Protein-Protein Interaction Using Latent Mixed Membership Model
 May 2022
