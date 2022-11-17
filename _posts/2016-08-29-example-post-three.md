@@ -1,7 +1,6 @@
 ---
 title: Predicting Biological Process Membership of Proteins from PPI Using LMM Model
 categories:
-- General
 - Project
 excerpt: |
 feature_text: |
@@ -22,4 +21,5 @@ protein in each biological process group. Our result
 proves a noticeable improvement in prediction accuracy
 of latent mixed membership model to mixed
 membership stochastic blockmodel.
-{% include button.html text="Writeup" link="/assets/writeups/cmu_02510.pdf" %}
+{% include button.html text="Writeup" link="/assets/writeups/cmu_02510.pdf" %} {% include button.html text="Poster" link="/assets/posters/cmu_02510.pdf" %}
+<embed src="/assets/writeups/cmu_02510.pdf">
