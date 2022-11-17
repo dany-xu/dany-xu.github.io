@@ -22,4 +22,4 @@ proves a noticeable improvement in prediction accuracy
 of latent mixed membership model to mixed
 membership stochastic blockmodel.
 {% include button.html text="Writeup" link="/assets/writeups/cmu_02510.pdf" %} {% include button.html text="Poster" link="/assets/posters/cmu_02510.pdf" %}
-<embed src="/assets/writeups/cmu_02510.pdf">
+
