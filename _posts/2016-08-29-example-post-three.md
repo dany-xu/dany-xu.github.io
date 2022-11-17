@@ -1,9 +1,9 @@
 ---
-title: Description of a Pot Still
+title: Predicting Biological Process Membership of Proteins from Protein-Protein Interaction Using Latent Mixed Membership Model
 categories:
 - General
+- Project
 excerpt: |
-  A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).
 feature_text: |
   ## The Pot Still
   The modern pot still is a descendant of the alembic, an earlier distillation device
@@ -11,8 +11,15 @@ feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
 
-A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy). This is called a batch distillation (as opposed to a continuous distillation).
-
-At standard atmospheric pressure, alcohol boils at 78 °C (172 °F), while water boils at 100 °C (212 °F). During distillation, the vapour contains more alcohol than the liquid. When the vapours are condensed, the resulting liquid contains a higher concentration of alcohol. In the pot still, the alcohol and water vapour combine with esters and flow from the still through the condensing coil. There they condense into the first distillation liquid, the so-called "low wines". The low wines have a strength of about 25–35% alcohol by volume, and flow into a second still. It is then distilled a second time to produce the colourless spirit, collected at about 70% alcohol by volume. Colour is added through maturation in an oak aging barrel, and develops over time.
-
-The modern pot still is a descendant of the alembic, an earlier distillation device.
+The latent mixed membership (LMM) model has been used to predict protein functions based on the protein-protein interaction (PPI) data. Previously, the latent mixed membership model was used to predict protein functions on the MIPS dataset. However,
+the overall success rate to recover the protein functions
+is only around 40% to 45%. Intuitively, we believe
+that this model might be more accurate in predicting
+the biological process membership of proteins
+from the PPI data. We implement an Estimation-
+Maximization (EM) algorithm to approximate the
+model to calculate the degree of membership of each
+protein in each biological process group. Our result
+proves a noticeable improvement in prediction accuracy
+of latent mixed membership model to mixed
+membership stochastic blockmodel.
