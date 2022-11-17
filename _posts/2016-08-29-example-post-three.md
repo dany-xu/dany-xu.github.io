@@ -21,7 +21,7 @@ protein in each biological process group. Our result
 proves a noticeable improvement in prediction accuracy
 of latent mixed membership model to mixed
 membership stochastic blockmodel.
-{% include file.html link="/assets/posters/cmu_02510.pdf"%}
+{% include file.html link="/assets/posters/cmu_02510.pdf" height="600px"%}
  {% include button.html text="Poster" link="/assets/posters/cmu_02510.pdf" %}
 {% include file.html link="/assets/writeups/cmu_02510.pdf"%}
 {% include button.html text="Writeup" link="/assets/writeups/cmu_02510.pdf" %}
