@@ -1,12 +1,11 @@
 ---
-title: Predicting Biological Process Membership of Proteins from Protein-Protein Interaction Using Latent Mixed Membership Model
+title: Predicting Biological Process Membership of Proteins from PPI Using LMM Model
 categories:
 - General
 - Project
 excerpt: |
 feature_text: |
-  ## The Pot Still
-  The modern pot still is a descendant of the alembic, an earlier distillation device
+  The relationship between protein and their corresponding features can resemble a mix-membership relation...
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
@@ -23,3 +22,4 @@ protein in each biological process group. Our result
 proves a noticeable improvement in prediction accuracy
 of latent mixed membership model to mixed
 membership stochastic blockmodel.
+{% include button.html text="Writeup" link="/assets/writeups/cmu_02510.pdf" %}
