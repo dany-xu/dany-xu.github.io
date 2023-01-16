@@ -63,11 +63,11 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: Projects # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "My Previous Experiences" # The post list page content
     feature_text: |
-      Welcome to the blog
+      Welcome to the projects
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
@@ -124,9 +124,9 @@ navigation_header:
 - title: Home
   url: /
 - title: CV
-  url: /elements/
+  url: /cv/
 - title: Projects
-  url: /blog/
+  url: /projects/
 - title: Categories
   url: /categories/
 - title: Search
