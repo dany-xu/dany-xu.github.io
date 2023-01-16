@@ -1,7 +1,7 @@
 ---
-title: Welcome to my personal website!
+title: Katrina Liu / 刘潇 / Xiao Liu 
 feature_text: |
-  ## Katrina Liu / 刘潇 / Xiao Liu
+  ## Welcome to my personal website!
 feature_image: "/assets/default-background-image.jpg"
 ---
 
