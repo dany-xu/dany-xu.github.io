@@ -9,3 +9,5 @@ I am currently a master student of the [Master of Biomedical Informatics](https:
 
 {% include button.html text="GitHub" icon="github" link="https://github.com/katrina-liu" color="#0366d6" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/katrina-liu-6980b9235/" color="#0d94e7" %} {% include button.html text="Email Me" link="mailto:xkliu0424@gmail.com" %}
 
+#### Acknowledgements
+This website is powered by <a href="https://alembic.darn.es/">Jekyll Alembic</a> template. Front page background image is <a href="http://www.freepik.com">designed by Freepik</a> with slight modifications.
