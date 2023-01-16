@@ -7,6 +7,8 @@ excerpt: "Curriculum Vitae"
 aside: true
 ---
 
+{% include file.html link="/assets/Katrina_Liu_CV.pdf" height="600"%}
+
 <div hidden>
 
 #### Education
