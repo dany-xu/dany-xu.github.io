@@ -7,6 +7,8 @@ excerpt: "Curriculum Vitae"
 aside: true
 ---
 
+<div hidden>
+
 #### Education
 ###### Harvard Medical School
 Master of Biomedical Informatics, Aug. 2022-Now
@@ -225,3 +227,4 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 {% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
 ```
+</div>
