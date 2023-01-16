@@ -1,5 +1,5 @@
 ---
-title: Welcome to my personal website! This site is currently under development.
+title: Welcome to my personal website!
 feature_text: |
   ## Katrina Liu / 刘潇 / Xiao Liu
 feature_image: "/assets/default-background-image.jpg"
