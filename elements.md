@@ -4,7 +4,7 @@ feature_text: |
   All About Me
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "Curriculum Vitae"
-aside: true
+aside: false
 ---
 
 {% include file.html link="/assets/Katrina_Liu_CV.pdf" height="600"%}
