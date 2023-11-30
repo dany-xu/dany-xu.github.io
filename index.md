@@ -1,7 +1,7 @@
 ---
-title: Katrina Liu / 刘潇 / Xiao Liu 
+title: Xiao (Katrina) Liu / 刘潇 
 feature_text: |
-  ## Welcome to my personal website!
+  ## Welcome
 feature_image: "/assets/default-background-image.jpg"
 ---
 
