@@ -7,7 +7,7 @@ excerpt: "Resume"
 aside: false
 ---
 
-{% include file.html link="/assets/dx-resume.pdf" height="600"%}
+{% include file.html link="/assets/dx-resume.pdf" height="600"%}<br>
 
 
 
@@ -30,21 +30,22 @@ Nanjing, Jiangsu, China | Aug. 2022-Sep. 2022
 
 
 
-#### Awards
-###### Finalist in 2022 American Mathematical Contest in Modeling, MCM/ICM
-[![Finalist in 2022 American Mathematical Contest in Modeling, MCM/ICM](/assets/award1.png)](/link/to/award1){:height="40px" width="60px"}
-May. 2022
-
-###### Grand Prize in the 17th “Challenge Cup” National Competition for Extracurricular Academic Science and Technology Works
-[![Grand Prize in the 17th “Challenge Cup” National Competition for Extracurricular Academic Science and Technology Works](/assets/award2.png)](/link/to/award2){:height="40px" width="60px"}
-
-Nov. 2021
-
-
-
 #### Research Experience
 ###### [Beilun Wang's Lab](https://cse.seu.edu.cn/2019/0105/c23024a257533/page.htm), Southeast University
 Advisors: Beilun Wang, Meng Wang | Jun.2020- Jun. 2023
+
+
+
+#### Awards
+###### Finalist in 2022 American Mathematical Contest in Modeling, MCM/ICM
+[![Finalist in 2022 American Mathematical Contest in Modeling, MCM/ICM](/assets/award1.png)](/link/to/award1){:height="20px" width="30px"}
+May. 2022
+
+###### Grand Prize in the 17th “Challenge Cup” National Competition for Extracurricular Academic Science and Technology Works
+[![Grand Prize in the 17th “Challenge Cup” National Competition for Extracurricular Academic Science and Technology Works](/assets/award2.png)](/link/to/award2){:height="20px" width="30px"}
+
+Nov. 2021
+
 
 <div hidden>
 
