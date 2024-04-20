@@ -34,7 +34,7 @@ Nanjing, Jiangsu, China | Aug. 2022-Sep. 2022
 
 
 #### Research Experience
-###### [Beilun Wang's Lab](https://cse.seu.edu.cn/2019/0105/c23024a257533/page.htm), Southeast University
+###### [Lab Wang](https://xgbxscwx.seu.edu.cn/wang-labsite/), Southeast University
 Advisors: Beilun Wang, Meng Wang | Jun.2020- Jun. 2023
 
 
