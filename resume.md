@@ -10,7 +10,7 @@ aside: false
 {% include file.html link="/assets/dx-resume.pdf" height="600"%}
 
 
-
+<div hidden>
 #### Education
 ###### New York University
 Master of Science in Computer Engineering, Sep. 2023-now
@@ -39,7 +39,6 @@ Nov. 2021
 ###### [Beilun Wang's Lab](https://cse.seu.edu.cn/2019/0105/c23024a257533/page.htm), Southeast University
 Advisors: Beilun Wang, Meng Wang | Jun.2020- Jun. 2023
 
-<div hidden>
 
 # Heading 1
 
