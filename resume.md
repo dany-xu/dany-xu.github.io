@@ -29,7 +29,6 @@ Bachelor of Engineering in Artificial Intelligence, Sep. 2019-June. 2023
 New York, NY, US | Jan. 2024-Apr. 2024
 
 ###### Software Development Engineer in Test, Huawei
-
 Nanjing, Jiangsu, China | Aug. 2022-Sep. 2022
 
 
