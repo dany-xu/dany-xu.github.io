@@ -2,7 +2,7 @@
 title: Danying Xu 
 feature_text: |
   <h2 style="color: white;">Welcome</h2>
-feature_image: "/assets/ny.jpg"
+feature_image: "/assets/ny.png"
 ---
 
 I am currently a student of the Master of Science in Computer Engineering program at New York University, US. Previously, I have completed Bachelor's of Engineering in Artificial Intelligence at Southeast University, China. 
