@@ -18,6 +18,7 @@ aside: false
 Master of Science in Computer Engineering, Sep. 2023-now
 
 ###### Southeast University
+
 Bachelor of Engineering in Artificial Intelligence, Sep. 2019-June. 2023
 
 
@@ -28,6 +29,7 @@ Bachelor of Engineering in Artificial Intelligence, Sep. 2019-June. 2023
 New York, NY, US | Jan. 2024-Apr. 2024
 
 ###### Software Development Engineer in Test, Huawei
+
 Nanjing, Jiangsu, China | Aug. 2022-Sep. 2022
 
 
@@ -45,7 +47,6 @@ May. 2022
 
 ###### Grand Prize in the 17th “Challenge Cup” National Competition for Extracurricular Academic Science and Technology Works
 [![Grand Prize in the 17th “Challenge Cup” National Competition for Extracurricular Academic Science and Technology Works](/assets/award2.png)](/link/to/award2){:height="20px" width="30px"}
-
 Nov. 2021
 
 
