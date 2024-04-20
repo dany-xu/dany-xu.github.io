@@ -16,6 +16,7 @@ aside: false
 
 ###### New York University
 Master of Science in Computer Engineering, Sep. 2023-now
+
 ###### Southeast University
 Bachelor of Engineering in Artificial Intelligence, Sep. 2019-June. 2023
 
@@ -25,6 +26,7 @@ Bachelor of Engineering in Artificial Intelligence, Sep. 2019-June. 2023
 
 ###### Machine Learning Engineer, Global AI
 New York, NY, US | Jan. 2024-Apr. 2024
+
 ###### Software Development Engineer in Test, Huawei
 Nanjing, Jiangsu, China | Aug. 2022-Sep. 2022
 
