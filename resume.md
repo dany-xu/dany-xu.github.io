@@ -1,7 +1,7 @@
 ---
 title: Resume
 feature_text: |
-  <h2 style="color: white;">Resume</h2>
+  <h2 style="color: white;">Welcome</h2>
 feature_image: "/assets/ny.png"
 excerpt: "Resume"
 aside: false
