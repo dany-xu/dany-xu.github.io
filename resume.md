@@ -1,12 +1,14 @@
 ---
-title: Resume
+title: Portfolio
 feature_text: |
   <h2 style="color: white;">Welcome</h2>
 feature_image: "/assets/ny.png"
-excerpt: "Resume"
+excerpt: "Portfolio"
 aside: false
 ---
 
+
+#### Resume
 {% include file.html link="/assets/dx-resume.pdf" height="600"%}<br>
 
 
