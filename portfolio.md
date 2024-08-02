@@ -12,21 +12,31 @@ aside: false
 <!--{% include file.html link="/assets/dx-resume.pdf" height="600"%}<br>-->
 Choose a version to view:
 
-- [Resume](#eng-ai)
-- [简历](#chn-ai)
+- [English Resume](javascript:showDocument('eng-ai'))
+- [简历 (Chinese Resume)](javascript:showDocument('chn-ai'))
 
 #### Document Viewer
 
-<div id="eng-ai">
-  <h3>Resume</h3>
-  {% include file.html link="/assets/dx-resume-eng.pdf" height="600"%}
+<div id="document-viewer">
+  <div id="eng-ai" class="document-section">
+    <h3>English Resume</h3>
+    {% include file.html link="/assets/dx-resume-eng.pdf" height="600"%}
+  </div>
+
+  <div id="chn-ai" class="document-section" style="display:none;">
+    <h3>简历 (Chinese Resume)</h3>
+    {% include file.html link="/assets/dx-resume-chn.pdf" height="600"%}
+  </div>
 </div>
 
-<div id="chn-ai">
-  <h3>Research Paper</h3>
-  {% include file.html link="/assets/dx-resume-chn.pdf" height="600"%}
-</div>
-
+<script>
+  function showDocument(id) {
+    document.querySelectorAll('.document-section').forEach(section => {
+      section.style.display = 'none';
+    });
+    document.getElementById(id).style.display = 'block';
+  }
+</script>
 
 
 
