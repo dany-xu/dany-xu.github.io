@@ -9,7 +9,23 @@ aside: false
 
 
 #### Resume
-{% include file.html link="/assets/dx-resume.pdf" height="600"%}<br>
+<!--{% include file.html link="/assets/dx-resume.pdf" height="600"%}<br>-->
+Choose a version to view:
+
+- [Resume](#eng-ai)
+- [简历](#chn-ai)
+
+#### Document Viewer
+
+<div id="eng-ai">
+  <h3>Resume</h3>
+  {% include file.html link="/assets/dx-resume-eng.pdf" height="600"%}
+</div>
+
+<div id="chn-ai">
+  <h3>Research Paper</h3>
+  {% include file.html link="/assets/dx-resume-chn.pdf" height="600"%}
+</div>
 
 
 
