@@ -11,20 +11,21 @@ aside: false
 #### Resume
 <!--{% include file.html link="/assets/dx-resume.pdf" height="600"%}<br>-->
 
-Choose a version to view: [English Resume](javascript:showDocument('eng-ai'))  |  [简历 (Chinese Resume)](javascript:showDocument('chn-ai'))
+Choose a version to view: [English Resume](javascript:showDocument('eng-ai'))|[简历 (Chinese Resume)](javascript:showDocument('chn-ai'))
 
-#### Document Viewer
 
+
+
+#### Resume Viewer
 <div id="document-viewer">
   <div id="eng-ai" class="document-section">
-    <h5>English Resume</h5>
     {% include file.html link="/assets/dx-resume-eng.pdf" height="600"%}
   </div>
 
   <div id="chn-ai" class="document-section" style="display:none;">
-    <h5>简历</h5>
     {% include file.html link="/assets/dx-resume-chn.pdf" height="600"%}
   </div>
+
 
 </div>
 
@@ -38,22 +39,21 @@ Choose a version to view: [English Resume](javascript:showDocument('eng-ai'))  |
 </script>
 
 
+
+
 #### Education
-
 ###### New York University
-Master of Science in Computer Engineering, Sep. 2023-now
-
+Master of Science in Computer Engineering, Sep. 2023-now (expected to graduate in May. 2025)
 ###### Southeast University
-
 Bachelor of Engineering in Artificial Intelligence, Sep. 2019-June. 2023
 
 
 
 #### Work Experience
-
+###### Machine Learning Engineer, Global AI
+New York, NY, US | May. 2024-Aug. 2024
 ###### Machine Learning Engineer, Global AI
 New York, NY, US | Jan. 2024-Apr. 2024
-
 ###### Software Development Engineer in Test, Huawei
 Nanjing, Jiangsu, China | Aug. 2022-Sep. 2022
 
