@@ -10,23 +10,22 @@ aside: false
 
 #### Resume
 <!--{% include file.html link="/assets/dx-resume.pdf" height="600"%}<br>-->
-Choose a version to view:
 
-- [English Resume](javascript:showDocument('eng-ai'))
-- [简历 (Chinese Resume)](javascript:showDocument('chn-ai'))
+Choose a version to view: [English Resume](javascript:showDocument('eng-ai'))  |  [简历 (Chinese Resume)](javascript:showDocument('chn-ai'))
 
 #### Document Viewer
 
 <div id="document-viewer">
   <div id="eng-ai" class="document-section">
-    <h3>English Resume</h3>
+    <h5>English Resume</h5>
     {% include file.html link="/assets/dx-resume-eng.pdf" height="600"%}
   </div>
 
   <div id="chn-ai" class="document-section" style="display:none;">
-    <h3>简历 (Chinese Resume)</h3>
+    <h5>简历</h5>
     {% include file.html link="/assets/dx-resume-chn.pdf" height="600"%}
   </div>
+
 </div>
 
 <script>
@@ -37,7 +36,6 @@ Choose a version to view:
     document.getElementById(id).style.display = 'block';
   }
 </script>
-
 
 
 #### Education
