@@ -11,7 +11,7 @@ aside: false
 #### Resume
 <!--{% include file.html link="/assets/dx-resume.pdf" height="600"%}<br>-->
 
-Choose a version to view: [English Resume](javascript:showDocument('eng-ai'))|[简历 (Chinese Resume)](javascript:showDocument('chn-ai'))
+Choose a version to view: [English Resume](javascript:showDocument('eng-ai')) / [简历 (Chinese Resume)](javascript:showDocument('chn-ai'))
 
 
 
